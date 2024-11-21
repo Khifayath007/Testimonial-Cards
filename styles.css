@@ -8,7 +8,7 @@
     flex-wrap: wrap;
 }
 #Testimonial-1{
-    margin:1rem;
+    margin:2rem;
 }
 #dialog-front{
     background-color: #1e1e1e;
@@ -17,15 +17,14 @@
     font-size: 2.5rem;
     padding: 30px 20px 30px 20px; 
     border-radius: 30px;
-    margin: 10px;
 }
 #dialog-back{
     background-color: #1e1e1e;
     width: 30px;
     height: 40px;
     rotate: 45deg;
-    margin-left: 60px;
-    margin-top: -40px;
+    margin-left: 4rem;
+    margin-top: -1.5rem;
 }
 #name-profession{
     margin-top: 2.5rem;
@@ -48,10 +47,10 @@
 }
 #Testimonial-2{
     border: 3px solid #1e1e1e;
-    width:80vmin;
-    padding: 25px;
+    width:90vmin;
+    padding: 2rem;
     border-radius: 30px;
-    margin:1rem;
+    margin:2rem;
 }
 #comment{
     font-size: 2.5rem;
@@ -64,4 +63,77 @@
     border-radius: 50%;
     margin: 10px;
     margin-left: 0;
+}
+#Testimonial-3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 2rem;
+}
+#image-3{
+    height: 70vmin;
+    width: 70vmin;
+    border-radius: 3rem;
+}
+#comment-1{
+    background-color: #1e1e1e;
+    color: white;
+    width:113.8vmin;
+    padding: 3rem;
+    border-radius: 3rem;
+}
+#rating{
+    font-size: 0;
+    margin-bottom: 2rem;
+}
+#star{
+    font-size: 2rem;
+}
+#name-1{
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+}
+#profession-1{
+    font-size: 2.5rem;
+    color: grey;
+    margin-bottom: 2rem;
+}
+#review{
+    font-size: 2.5rem;
+}
+#Testimonial-4{
+    border: 0.2rem solid #1e1e1e;
+    border-radius: 3rem;
+    padding: 5rem 9rem 5rem 9rem;
+    margin: 1rem;
+}
+#content{
+    font-size: 2.5rem;
+    text-align: center;
+}
+#mid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+#image-4{
+    height: 13vmin;
+    width:13vmin;
+    border-radius: 50%;
+    opacity: 50%;
+    margin: 3rem;
+}
+#image-5{
+    height:15vmin ;
+    width: 15vmin;
+    border-radius: 50%;
+}
+#left-right{
+    color: #1e1e1e;
+    font-size: 1.5rem;
+}
+#name{
+    text-align: center;
+    font-size: 2.5rem;
 }
